@@ -1,5 +1,3 @@
-# Getting Started with Create React App
-
 This project is created with react, vite and typescript
 
 ## Available Scripts
